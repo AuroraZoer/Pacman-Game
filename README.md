@@ -78,7 +78,7 @@ The version of the game you are creating will allow for the layout of the maze t
 Each maze design will be stored as a single text file containing the whole maze. The text file is laid out like a two dimensional grid where each line is the next part of the maze. An example of the format is given in
 Figure.
 
-![image-20230704215533264](E:\Code\COMP2011J-Object-Oriented-Programming-Assignment\maze)
+![image-20230704215533264](E:\Code\COMP2011J-Object-Oriented-Programming-Assignment\maze.jpg)
 
 The maximum width of any level will 20 and the maximum height (number of lines) will be 24. I will be testing with files that I have created myself, so your code must be able to generate levels based on them.
 
