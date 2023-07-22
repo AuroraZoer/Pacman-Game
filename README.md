@@ -4,6 +4,8 @@ The Pacman Game project is a captivating implementation of the classic arcade ga
 
 With a focus on modularity and extensibility, this project demonstrates the fundamental concepts of object-oriented programming, including encapsulation, inheritance, and polymorphism. By employing these principles, the codebase ensures maintainability and allows for easy future enhancements and additions.
 
+- Click [here](https://youtu.be/RBWuVX7_XUY) to see a video presentation of the project. 
+
 ## Game Description
 
 PAC-MAN is a classic arcade game, where a pac-man moves through a maze consuming the dots and avoiding the coloured ghosts. The player has a limited number of lives and loses one whenever a ghost catches them. The player gets points for eating the dots, power pellets (these give special powers to pac-man) and ghosts. The player can get another life every time their score goes over a multiple of 10,000.
