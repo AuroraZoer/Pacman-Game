@@ -1,4 +1,4 @@
-# COMP2011J-Object-Oriented-Programming-Assignment
+# Pacman Game
 
 The Pacman Game project is a captivating implementation of the classic arcade game developed using Java and object-oriented programming principles. Inspired by the iconic Pacman game from the 1980s, this project showcases the power of Java's object-oriented features and provides an engaging gaming experience.
 
